@@ -1,4 +1,4 @@
-# Arduino IOT
+# Arduino IOT - In progress - Code en Beta pour le moment 
 # ESP8266 Sensor with WIFI, MQQT, Grafana InfluxDB and Docker 
 
 Objectif du projet : 
