@@ -1,7 +1,9 @@
-# Arduino IOT - In progress - Code en Beta pour le moment 
-# ESP8266 telemetry Sensor with WIFI, MQQT, Grafana InfluxDB and Docker 
+# ESP8266 Telemetry Sensor With WIFI, serveur Web, MQQT, Grafana, InfluxDB and Docker 
 
-Objectif du projet : 
+**Arduino IOT ----- In progress ------ Code en Beta pour le moment
+
+**Objectif du projet : 
+
 Mettre en oeuvre une station météo locale avec différentes sondes environnementale 
 
 
@@ -25,8 +27,8 @@ Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Tempe
 5. **BH1750FVI** : Digital Light Sensor - Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
 6. Proto board, scrap PCB, or wire to connect everything
 
-Option 
-3.3V LDO regulator to supply your ESP
+Options 
+ - 3.3V LDO regulator to supply your ESP
 
 ## ESP8266
 
