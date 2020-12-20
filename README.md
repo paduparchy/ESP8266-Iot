@@ -18,11 +18,11 @@ Composants techniques :
 Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Temperature-Humidity-Atmosphetic-Pressure-Light-Sensor-0_96-Display-for-Arduino-IDE-IoT-Starter-p-1751604.html?rmmds=myorder&cur_warehouse=CN
 
 
-1. ESP8266
-2. SSD1306 Ecran OLED  
-3. BM180 Barometer Plage de pression: 300 ~ 1100hPa.
-4. DHT11 Temperature and Humidity sensor 
-5. BH1750FVI : Digital Light Sensor - Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
+1. **ESP8266
+2. **SSD1306** Ecran OLED  
+3. **BM180** Barometer Plage de pression: 300 ~ 1100hPa.
+4. **DHT11** Temperature and Humidity sensor 
+5. **BH1750FVI** : Digital Light Sensor - Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
 6. Proto board, scrap PCB, or wire to connect everything
 
 Option 
