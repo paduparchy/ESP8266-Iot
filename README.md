@@ -21,7 +21,7 @@ Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Tempe
 1. ESP8266
 2. BM180 Barometer Plage de pression: 300 ~ 1100hPa.
 3. DHT11 Temperature and Humidity sensor 
-4. BH1750FVI : Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
+4. BH1750FVI : Digital Light Sensor - Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
 5. OLED SSD1306 
 6. Proto board, scrap PCB, or wire to connect everything
 
