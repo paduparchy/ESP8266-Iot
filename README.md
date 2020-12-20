@@ -1,4 +1,9 @@
-# ESP8266 with Grafana and InfluxDB
+# Arduino IOT
+# ESP8266 Sensor with WIFI, MQQT, Grafana InfluxDB and Docker 
+
+Objectif du projet : 
+Mettre en oeuvre une station météo locale avec différentes sondes environnementale 
+
 
 The ghetto way to setup an IoT for your glorious Grafana Dashboard.
 
@@ -8,16 +13,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-Ingredients :
+composants techniques :
 
-```
 1. ESP8266
 2. BM180 Barometer 
-3. DHT11 or DHT22 Temperature and Humidity sensor 
-3. 10k Resistors for pull up DHT
-4. 100nF Capacitors 
-5. 3.3V LDO regulator to supply your ESP
+3. DHT11 Temperature and Humidity sensor 
+4. BH1750FVI : Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
+5. OLED SSD1306 
 6. Proto board, scrap PCB, or wire to connect everything
+Option 
+5. 3.3V LDO regulator to supply your ESP
+
 
 ```
 ## ESP8266
