@@ -20,10 +20,9 @@ Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Tempe
 
 1. ESP8266
 2. SSD1306 Ecran OLED  
-21. BM180 Barometer Plage de pression: 300 ~ 1100hPa.
-22. DHT11 Temperature and Humidity sensor 
-23. BH1750FVI : Digital Light Sensor - Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
-4. 
+3. BM180 Barometer Plage de pression: 300 ~ 1100hPa.
+4. DHT11 Temperature and Humidity sensor 
+5. BH1750FVI : Digital Light Sensor - Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
 6. Proto board, scrap PCB, or wire to connect everything
 
 Option 
@@ -39,14 +38,20 @@ https://easyeda.com/
 ### Schematic
 Using ESP8266 NodeMCU v3 LoLin with a simple 3.3V LDO Regulator.
 
-![Schematic with battery](https://i.imgur.com/LsPy9dy.png)
-
 GPIO used on ESP8266 NodeMCU v3:
 ```
-BMP180 I2C_SCL on D1 or GPIO 5  
-BMP180 I2C_SDA on D2 or GPIO 4
-DHT1 I/O on D4 or GPIO 2
+BMP180 I2C_SCL on D1 (ESP8266) or GPIO 5  
+BMP180 I2C_SDA on D2 (ESP8266) or GPIO 4
+DHT1 I/O on D6 or GPIO ???
+BH1750FVI I2C_SCL on D1 (ESP8266) or GPIO 5
+BH1750FVI I2C_SDA on D2 (ESP8266) or GPIO 4
+SSD1306 I2C_SCL on D4 (ESP8266)
+SSD1306 I2C_SDA on D3 (ESP8266)
 ```
+
+
+----------------------------------------------------------------- END PAD ------------------------------------------
+
 
 ### Place Holder
 
