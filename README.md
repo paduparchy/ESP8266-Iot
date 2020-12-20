@@ -1,4 +1,4 @@
-# ESP8266 Telemetry Sensor With WIFI, serveur Web, MQQT, Grafana, InfluxDB and Docker 
+# ESP8266 Telemetry Sensor With WIFI, serveur Web, MQTT, InfluxDB, Grafana and Docker 
 
 **Arduino IOT ----- In progress ------ Code en Beta pour le moment**
 
