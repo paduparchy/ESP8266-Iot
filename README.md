@@ -32,14 +32,16 @@ Option
 ```
 ## ESP8266
 
-https://easyeda.com/
-
-
 ### Schematic
-Using ESP8266 NodeMCU v3 LoLin with a simple 3.3V LDO Regulator.
+Using ESP8266 NodeMCU v3 LoLin avec alimentation USB
+
+To do : Faire un schéma avec l'un de ces logiciels
+ - https://easyeda.com/
+ - https://fritzing.org/
+ - https://www.autodesk.com/products/eagle/overview
 
 GPIO used on ESP8266 NodeMCU v3:
-```
+
 BMP180 I2C_SCL on D1 (ESP8266) or GPIO 5  
 BMP180 I2C_SDA on D2 (ESP8266) or GPIO 4
 DHT1 I/O on D6 or GPIO ???
@@ -47,10 +49,17 @@ BH1750FVI I2C_SCL on D1 (ESP8266) or GPIO 5
 BH1750FVI I2C_SDA on D2 (ESP8266) or GPIO 4
 SSD1306 I2C_SCL on D4 (ESP8266)
 SSD1306 I2C_SDA on D3 (ESP8266)
+
 ```
 
 
+
 ----------------------------------------------------------------- END PAD ------------------------------------------
+
+
+```
+
+
 
 
 ### Place Holder
