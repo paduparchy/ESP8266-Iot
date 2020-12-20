@@ -1,8 +1,8 @@
 # ESP8266 Telemetry Sensor With WIFI, serveur Web, MQQT, Grafana, InfluxDB and Docker 
 
-**Arduino IOT ----- In progress ------ Code en Beta pour le moment
+**Arduino IOT ----- In progress ------ Code en Beta pour le moment**
 
-**Objectif du projet : 
+**Objectif du projet :**
 
 Mettre en oeuvre une station météo locale avec différentes sondes environnementale 
 
@@ -20,7 +20,7 @@ Composants techniques :
 Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Temperature-Humidity-Atmosphetic-Pressure-Light-Sensor-0_96-Display-for-Arduino-IDE-IoT-Starter-p-1751604.html?rmmds=myorder&cur_warehouse=CN
 
 
-1. **ESP8266
+1. **ESP8266**
 2. **SSD1306** Ecran OLED  
 3. **BM180** Barometer Plage de pression: 300 ~ 1100hPa.
 4. **DHT11** Temperature and Humidity sensor 
