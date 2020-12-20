@@ -1,5 +1,5 @@
 # Arduino IOT - In progress - Code en Beta pour le moment 
-# ESP8266 Sensor with WIFI, MQQT, Grafana InfluxDB and Docker 
+# ESP8266 telemetry Sensor with WIFI, MQQT, Grafana InfluxDB and Docker 
 
 Objectif du projet : 
 Mettre en oeuvre une station météo locale avec différentes sondes environnementale 
