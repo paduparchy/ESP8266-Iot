@@ -30,8 +30,7 @@ Option
 
 ## ESP8266
 
-![ESP8266-Iot](ESP8266/pictures/NODEMCU_DEVKIT_V1_0_PINMAP.png)
-
+![ESP8266-Iot](ESP8266-Iot/ESP8266/NODEMCU_DEVKIT_V1_0_PINMAP.png)
 
 ```
 ### Schematic
