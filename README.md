@@ -13,20 +13,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-composants techniques :
+Composants techniques :
+
+Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Temperature-Humidity-Atmosphetic-Pressure-Light-Sensor-0_96-Display-for-Arduino-IDE-IoT-Starter-p-1751604.html?rmmds=myorder&cur_warehouse=CN
+
 
 1. ESP8266
-2. BM180 Barometer 
+2. BM180 Barometer Plage de pression: 300 ~ 1100hPa.
 3. DHT11 Temperature and Humidity sensor 
 4. BH1750FVI : Capteur d'intensité lumineuse numérique Sortie numérique directe, calcul complexe omis, sans étalonnage
 5. OLED SSD1306 
 6. Proto board, scrap PCB, or wire to connect everything
+
 Option 
-5. 3.3V LDO regulator to supply your ESP
+3.3V LDO regulator to supply your ESP
 
 
 ```
 ## ESP8266
+
+https://easyeda.com/
+
 
 ### Schematic
 Using ESP8266 NodeMCU v3 LoLin with a simple 3.3V LDO Regulator.
