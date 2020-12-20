@@ -28,12 +28,12 @@ Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Tempe
 Option 
 3.3V LDO regulator to supply your ESP
 
-
-```
 ## ESP8266
 
-NODEMCU_DEVKIT_V1_0_PINMAP.png
+![ESP8266-Iot](ESP8266/pictures/NODEMCU_DEVKIT_V1_0_PINMAP.png)
 
+
+```
 ### Schematic
 Using ESP8266 NodeMCU v3 LoLin avec alimentation USB
 
@@ -61,7 +61,11 @@ SSD1306 I2C_SDA on D3 (ESP8266)
 
 ```
 
+![RTL-preview](pictures/RTL-dashboard.png)
 
+There are further Services that can be switched on:
+
+* **Tor** (Run as Hidden Service) [details](htt
 
 
 ### Place Holder
