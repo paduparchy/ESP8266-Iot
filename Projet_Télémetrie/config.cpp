@@ -4,8 +4,8 @@
 
 
 //WIFI
-const char* ssid = "wipad";                        // SSID du réseau Wifi
-const char* password = "boisdieu";                 // Mot de passe du réseau Wifi.
+const char* ssid = "xxx";                        // SSID du réseau Wifi
+const char* password = "xxx";                 // Mot de passe du réseau Wifi.
 
 //MQTT
 //const char* mqtt_server = "_IP_DU_BROKER_";        // Adresse IP ou DNS du Broker.
