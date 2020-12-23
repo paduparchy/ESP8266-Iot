@@ -30,12 +30,12 @@ Acheté sur : https://www.banggood.com/fr/ESP8266-Weather-Station-Kit-with-Tempe
 Options 
  - 3.3V LDO regulator to supply your ESP
 
-## ESP8266
+## Carte ESP8266 NodeMCU v3 LoLin
 
 ![ESP8266-Iot](ESP8266/NODEMCU_DEVKIT_V1_0_PINMAP.png)
 
-```
-### Schematic
+
+### Schéma de cablage 
 Using ESP8266 NodeMCU v3 LoLin avec alimentation USB
 
 To do : Faire un schéma avec l'un de ces logiciels
@@ -44,10 +44,10 @@ To do : Faire un schéma avec l'un de ces logiciels
  - https://www.autodesk.com/products/eagle/overview
 
 GPIO used on ESP8266 NodeMCU v3:
-
+```
 BMP180 I2C_SCL on D1 (ESP8266) or GPIO 5  
 BMP180 I2C_SDA on D2 (ESP8266) or GPIO 4
-DHT11 I/O on D6 or GPIO 12 (possibilité de le mettre sur le D5 aussi
+DHT11 I/O on D6 or GPIO 12 (possibilité de le mettre sur le D5 aussi)
 BH1750FVI I2C_SCL on D1 (ESP8266) or GPIO 5
 BH1750FVI I2C_SDA on D2 (ESP8266) or GPIO 4
 SSD1306 I2C_SCL on D4 (ESP8266)
